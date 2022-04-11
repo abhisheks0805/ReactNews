@@ -1,6 +1,6 @@
 ![Screenshot (91)](https://user-images.githubusercontent.com/63362026/162664651-c349a4a7-3034-47c0-a0a2-0d6f6e6623b7.png)
 
-Hello Github
+This News Website is created using NewsApi and ReactJS. This WebApp provides us with latest news categorised into differnet sections.
 
 
 # Getting Started with Create React App
